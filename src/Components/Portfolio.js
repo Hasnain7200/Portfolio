@@ -20,7 +20,7 @@ const Portfolio = () => {
         {
           id: 3,
           src: image3,
-          link: 'https://hasnain7200.github.io/BeskarBanquet/',
+          link: 'https://lovely-lamington-21e8f0.netlify.app/',
           repo: 'https://github.com/Hasnain7200/Beskar-Banquet'
         },
  
